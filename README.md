@@ -22,3 +22,5 @@ Place your own data into `data.txt`.
 > python chatgpt.py "what is my dog's name"
 Your dog's name is Sunny.
 ```
+NOTE
+CHROMADB NOT SUPPORTED ON WINDOWS 10, YET TO FIND A WORK AROUND
